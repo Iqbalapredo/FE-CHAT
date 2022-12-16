@@ -114,9 +114,9 @@ Contributions are what make the open source community such an amazing place to b
 
 
 ## Related Project
-:rocket: [`Backend Telegram`](https://github.com/Iqbalapredo/BE-Telegram)
+:rocket: [`Backend Telegram`](https://github.com/Iqbalapredo/BE-CHAT)
 
-:rocket: [`Frontend Telegram`](https://github.com/Iqbalapredo/FE-Telegram)
+:rocket: [`Frontend Telegram`](https://github.com/Iqbalapredo/FE-CHAT)
 
 :rocket: [`Demo Telegram`]()
 
