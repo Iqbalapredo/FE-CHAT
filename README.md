@@ -3,9 +3,9 @@
 <div align="center">
   <img height="150" src="https://iili.io/H3ze4kv.png" alt="telegram" border="0"/>
 </div>
-  <h3 align="center">Telegram</h3>
+  <h3 align="center">Insan Cita Chat</h3>
   <p align="center">
-    <a href="https://github.com/Iqbalapredo/FE-Telegram"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Iqbalapredo/FE-CHAT"><strong>Explore the docs »</strong></a>
     <br />
     <a href="">View Demo</a>
     ·
@@ -55,7 +55,7 @@ This is an example of how to list things you need to use the software and how to
 
 - Clone This Front End Repo
 ```
-git clone https://github.com/Iqbalapredo/FE-Telegram.git
+git clone https://github.com/Iqbalapredo/FE-CHAT.git
 ```
 - Go To Folder Repo
 ```
@@ -125,4 +125,4 @@ Contributions are what make the open source community such an amazing place to b
 
 My Email : iqbalapreedo@gmail.com
 
-Project Link: [https://github.com/Iqbalapredo/FE-Telegram](https://github.com/Iqbalapredo/FE-Telegram)
+Project Link: [https://github.com/Iqbalapredo/FE-CHAT](https://github.com/Iqbalapredo/FE-CHAT)
